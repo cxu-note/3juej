@@ -3,8 +3,8 @@ theme:
   name: "material"
   language: 'zh'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'light green'
+    accent: 'deep orange'
 extra:
   search:
     language: 'ja'
