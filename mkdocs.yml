@@ -1,2 +1,10 @@
 site_name: 三绝简
-theme: windmill
+theme: 
+  name: "material"
+  language: 'zh'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+extra:
+  search:
+    language: 'ja'
