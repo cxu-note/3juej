@@ -5,6 +5,11 @@ theme:
   palette:
     primary: 'light green'
     accent: 'deep orange'
+  logo:
+    icon: 'local_library'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
 extra:
   search:
     language: 'ja'
